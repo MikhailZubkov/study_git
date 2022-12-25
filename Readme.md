@@ -34,3 +34,7 @@ if you don't understand something - watch video again))))
 
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+## Добавление изображения
+Не совсем про гит, но про маркдаун. Пробуем добавить картинку. Для этого вставляем путь:
+![Think about it](C:/Users/Михаил/Desktop/Git_education/things/MemThinkAbout.png)
