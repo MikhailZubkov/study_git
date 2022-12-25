@@ -30,7 +30,7 @@ if you don't understand something - watch video again))))
 
 ## Слияние веток
 
-Для того чтобы дабавить ветку в текущую ветку используется команда *git merge <name branch>*
+Для того чтобы добавить ветку в текущую ветку используется команда *git merge <name branch>*
 
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
